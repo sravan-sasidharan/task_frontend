@@ -1,0 +1,37 @@
+.card {
+    padding: 0 5px 0 5px;
+}
+.secText{
+    color: rgb(146, 149, 152);
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.img-card{
+    width: 30px;
+    height: 30px;
+}
+.headText{
+    margin-top: -19px;
+    margin-left: 12px;  
+    font-weight: bold;
+    
+}
+.nav-item{
+    font-weight: bold;
+}
+.desc{
+margin-top: 20px;
+margin-left: 60px;
+}
+.nav-link:hover{
+    /* text-decoration:underline; */
+    border-bottom: 3px solid orange;
+}
+
+.nav-link{
+    transition: all 0.2s;
+}
+.progress{
+    width: 100%;
+    height: 5px;
+}
